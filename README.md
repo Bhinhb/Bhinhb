@@ -40,6 +40,6 @@
 <!-- Contact Me 제목 (밑줄 제거) -->
 <p style="font-size: 24px; font-weight: bold; margin-top: 30px;">📫 Contact Me</p>
 
-<p>📧 Email: <a href="mailto:bbhinhb@gmail.com">bbhinhb@gmail.com</a></p>
+<p>📧 Email: <a href="mailto:bbhinhb@gmail.com">dev.bbhin@gmail.com</a></p>
 
 </div>
